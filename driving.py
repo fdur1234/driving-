@@ -12,3 +12,5 @@ elif country == '美國':
 		print('你可以考車牌')
 	else:
 		print('你還不可以揸車')
+else:
+	print('只可以輸入香港或美國啊，傻尻')
