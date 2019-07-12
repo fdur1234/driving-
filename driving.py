@@ -7,3 +7,8 @@ if country == '香港':
 		print('你可以考車牌')
 	else:
 		print('你還不可以揸車')
+elif country == '美國':
+	if age >= 16:
+		print('你可以考車牌')
+	else:
+		print('你還不可以揸車')
